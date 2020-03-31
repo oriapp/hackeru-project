@@ -43,7 +43,7 @@ $uid = $_SESSION['user_id'] ?? null;
     </div>
     <div class="row">
       <div class="col-lg-8 mt-4">
-        <p>A blog to talk / getting support with Discord SDK and Discord.JS, JDA, DiscordPY libertys anywhere and anytime! 😉</p>
+        <p>A blog to talk / getting support with Discord SDK and Discord.JS, JDA, DiscordPY libraries anywhere and anytime! 😉</p>
       </div>
       <div class="col-lg-4 mt-4">
         <img style="background-color: #2A2D32; user-select: none;" class="img-fluid img-thumbnail" src="images/tumblr_pvc1a4U2ez1tqxdnpo1_500.png">
