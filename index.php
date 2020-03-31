@@ -4,18 +4,9 @@
 /* 
 
 TO DO LIST 
+________________
 
-
-TOP VOTES - in this page after random posts 
-
-#SQL
-
-SELECT * FROM likes
-JOIN users WHERE users.id = likes.user_id
-WHERE likes.user_id = '1'
-
-
-Save in the database the users author OS [operation system]
+NOTHING
 
 */
 
