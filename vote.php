@@ -70,7 +70,7 @@ $error = null;
 <?php if($resRes == 0): ?>
   <?php header('HTTP/1.1 404 Not Found'); ?>
 <center>
-<h1 class="text-white">Post with id '<code class="text-white"><?=$pid?></code>' didn't found</h1>
+<h1 class="text-white">Post with id '<code class="text-white"><?=$pid?></code>' didn't found or support ticket</h1>
 </center>
 <?php die; ?>
 <?php endif; ?>
