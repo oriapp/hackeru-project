@@ -6,8 +6,10 @@
 [Live Demo](https://discord-events.000webhostapp.com/)
 
 
-# Run :
+# Clone With :
 git clone https://github.com/oriapp/hackeru-project middleProject
 
 
-⌢洠摩汤ⵥ牰橯捥≴ഠ⌢栠捡敫畲瀭潲敪瑣•਍⌢栠捡敫畲瀭潲敪瑣•਍
+
+
+⌢洠摩汤ⵥ牰橯捥≴ഠ⌢栠捡敫畲瀭潲敪瑣•਍⌢栠捡敫畲瀭潲敪瑣•਍ - Don't even ask me
