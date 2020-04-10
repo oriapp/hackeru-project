@@ -215,7 +215,7 @@ function user_os() {
     function webhook_post($message = 'null'){
       $webhook_name = $_SESSION['user_name'] . ' (ID: ' . $_SESSION['user_id'] . ") [Webhook] " ?? "Discord Portal Update";
 
-      $webhookurl = "https://discordapp.com/api/webhooks/690635915680284803/AIdVn4NG--pKG8Wh6P0krMniogywn5dNXIhYtPbPJeh8ph3CuMEni1zJi1jHsoQdwqb8";
+      $webhookurl = "DISCORD_WEBHOOK_URL_HERE";
       $timestamp = date("c", strtotime("now"));
 
 $json_data = json_encode([
